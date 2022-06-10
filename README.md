@@ -1,7 +1,9 @@
 # Campus-WIFI-Network-And-Security
-To create an interconnected Wi-Fi model for all the campus areas and buildings as a whole and provide security
+To create an interconnected Wi-Fi model for all the campus areas and buildings as a whole and provide security.
+DOWNLOAD COMPLETE PACKET TRACER FILE FROM HERE:
+https://drive.google.com/drive/folders/1h4iTgTShjWciI4j17Vzmire4cFk4CVO7?usp=sharing
 
- TOOL USED Cisco Packet Tracer: 
+ TOOL USED Cisco Packet Tracer Ver 8.0 and above: 
  
 ● Router: A router is a networking device that forwards data packets between computer networks. Routers perform the traffic directing functions on the Internet. Data sent through the internet, such as a web page or email, is in the form of data packets. 
  
@@ -15,5 +17,3 @@ To create an interconnected Wi-Fi model for all the campus areas and buildings a
 
 ● Web cam To capture the human motion, we use Web cam.
 
-
-https://drive.google.com/drive/folders/1h4iTgTShjWciI4j17Vzmire4cFk4CVO7?usp=sharing
