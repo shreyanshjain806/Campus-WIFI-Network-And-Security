@@ -13,4 +13,7 @@ To create an interconnected Wi-Fi model for all the campus areas and buildings a
 
 ● Home Gateway: To add inbuild device select home gateway device from the network devices. To authenticate and validate the wireless connection, we also can configure home gateway with WEP/WPA-PSK /WPA2 protocols 
 
-● Web cam To capture the human motion, we use Web cam
+● Web cam To capture the human motion, we use Web cam.
+
+
+https://drive.google.com/drive/folders/1h4iTgTShjWciI4j17Vzmire4cFk4CVO7?usp=sharing
